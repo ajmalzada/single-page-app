@@ -204,7 +204,7 @@ class Body extends Component {
 
             <ul>
 
-       <li><a href="http://facebook.com/ajmalzada">Facebook</a></li>
+       <li><a href="https://www.facebook.com/ajmal.zada.1">Facebook</a></li>
        <li><a href="http://twitter.com">Twitter</a></li>
        <li><a href="http://github.com">Github</a></li>
               </ul>
