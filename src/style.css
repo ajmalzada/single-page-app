@@ -1,0 +1,79 @@
+
+header .container-fluid{
+    color: white;
+    background-color:limegreen;
+    height: 150px;
+    font-family: 'Times new roman', cursive;
+    font-size: 45px;
+    padding-top: 10px;
+}
+footer .container-fluid{
+    color: white;
+    background-color: limegreen;
+    font-family: 'times new roman', sans-serif;
+    font-size: 20px;
+    text-align: center;
+}
+
+
+body .coulm{
+    background-color: white;
+    font-family: 'Times new roman', sans-serif;
+    font-size: 20px;
+    padding-top: 10px;
+    padding-bottom: 20px;
+}
+
+
+body .col-md-2{
+    font-family: 'times new roman', sans-serif;
+    font-size: 30px;
+    color:brown;
+}
+
+body ul{
+    list-style: none;
+    color:white;
+    font-family: 'times new roman', sans-serif;
+
+}
+
+body small{
+    font-family: 'times new roman', sans-serif;
+}
+
+body li{
+    margin-top:10px;
+    margin-bottom: 10px;
+}
+
+
+body .panel-body{
+    font-family: 'times new roman', serif;
+    color: white;
+}
+
+body .pull-left{
+    font-family: 'times new roman', sans-serif;
+}
+
+
+body #links a:hover{
+    
+    
+        color: green; 
+    
+        text-decoration: inherit; 
+    
+    }
+    
+body #links a{
+    
+        color: limegreen;
+    
+    }
+
+body .col-sm-2{
+    color: red;
+    
+}
